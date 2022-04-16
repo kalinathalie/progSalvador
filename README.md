@@ -26,7 +26,7 @@
 
 > A grande sacada desse desafio é perceber que o jeito mais fácil de se resolver sem muito esforço é encaixando um jogo da velha no desafio da seguinte maneira:
 
-![Screen shot](https://raw.github.com/lucasnathaniel/progSalvador/master/tictactoe.png "TicTacToe")
+![Screen shot](https://raw.github.com/KaliNathalie/progSalvador/master/tictactoe.png "TicTacToe")
 
 > Caso queira saber mais sobre essa ordenação, veja: <http://www.ms.uky.edu/~lee/ma310sp15/gameoffifteen.pdf>
 
@@ -38,4 +38,4 @@
 $ python3 prog.py
 ```
 
-By: Lucas ~K4L1~ Nathaniel
+By: Kali ~K4L1~ Nathalie
